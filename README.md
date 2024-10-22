@@ -1,4 +1,4 @@
-#💫 A passionate frontend developer from Nigeria:
+
 🔭 I’m currently working on.....<br><br>🌱 I’m currently learning ReactJS<br><br>👯 I’m looking to collaborate on problem solving projects.<br><br>🤝 I’m looking for help with ReactJS<br><br>📫 How to reach me segunkenssou@gmail.com
 
 
